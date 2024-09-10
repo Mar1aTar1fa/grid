@@ -21,6 +21,7 @@ body{
     gap: 1%;
     margin: 20px;
     background-color: var(--primary-color);
+    object-position: center;
 }
 
 img {
